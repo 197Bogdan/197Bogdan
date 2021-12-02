@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @197Bogdan
 - 👀 I’m interested in video games, programming, rap music and fitness.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on ... anything.
 - 📫 How to reach me: bogdanputineanu@gmail.com
 
 <!---
